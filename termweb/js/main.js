@@ -1,3 +1,6 @@
+
+//created by mustak ahmed khan
+
 let app = document.querySelector('.termweb_app_icon');
 let terminal = document.querySelector('.wrapper');
 
